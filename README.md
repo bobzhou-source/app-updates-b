@@ -1,2 +1,3 @@
-# Lodestar-releases
-Release feed (installers + Velopack updates) for Lodestar Scrub Native
+# Update feed
+
+Installers and automatic updates. Binaries only.
